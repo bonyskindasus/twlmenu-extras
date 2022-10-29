@@ -1,5 +1,5 @@
 ---
-name: Skin request
+name: Yoshi
 about: Request a skin, font, or Unlaunch background be added
 title: ''
 labels: skin
